@@ -1,6 +1,9 @@
 # AutoUpdate-Java API
 The official API for AutoUpdate-Java
 
+## How to use this
+AutoUpdate for Java: https://github.com/afkvido-development/AutoUpdate-Java/tree/main/README.md
+
 ## Folders and Files
 - Our License `LICENSE` - [BSD-2 Clause](https://github.com/afkvido-development/AutoUpdate-Java-API/tree/main/LICENSE)
 - src `/src/` - [Sources root](https://github.com/afkvido-development/AutoUpdate-Java-API/tree/main/src)
